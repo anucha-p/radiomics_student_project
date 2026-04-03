@@ -209,8 +209,6 @@ pip install pyradiomics
 
 ## 📧 Support
 
-For questions about this project, contact your instructor.
-
 For PyRadiomics issues, visit: https://github.com/Radiomics/pyradiomics
 
 ## 📄 License
