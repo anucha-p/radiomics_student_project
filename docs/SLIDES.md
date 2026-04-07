@@ -75,7 +75,7 @@ table {
 
 1. 🔬 What is Radiomics & Why It Matters
 2. 📊 Types of Radiomic Features
-3. ⚙️ **The Advanced Pipeline (New!)**
+3. ⚙️ The Advanced Pipeline
 4. 💾 Available Datasets
 5. 🚀 Getting Started & Notebooks
 6. 📈 Machine Learning Workflow
